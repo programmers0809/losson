@@ -1,0 +1,15 @@
+@import url();
+
+.box1{
+    margin:100px;
+    padding: 100px;
+    box-sizing: border-box;
+    font-family:"poppins",sans-serif;
+}
+body{
+    display: flex;
+    justify-self: start;
+    align-items: center;
+    min-height: 100vh;
+    background: seagreen;
+}

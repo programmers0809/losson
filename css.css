@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+    background-image: url();
+}
+img{
+    width: 100px;
+    height: 100px;
+    background-size: contain; 
+
+}
